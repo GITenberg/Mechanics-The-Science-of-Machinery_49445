@@ -1,4 +1,8 @@
 _repo: Mechanics-The-Science-of-Machinery_49445
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49445-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, A. Russell (Alexander Russell)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '6330'
     url: http://www.gutenberg.org/2009/agents/6330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49445#Mechanics-The-Science-of-Machinery
 gutenberg_issued: '2015-07-15'
 gutenberg_type: Text
 identifiers:
